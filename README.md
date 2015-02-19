@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/emptyslate/slate.png?label=ready&title=Ready)](https://waffle.io/emptyslate/slate)
 # slate
 a customizable CommonMark editor and previewer, written in ClojureScript
 ---
